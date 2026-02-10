@@ -1,4 +1,4 @@
-# 🎵 Tocador de MP3 em Python
+# 🎵 Tocador e Playlist de MP3 em Python
 
 Projeto desenvolvido em Python com o objetivo de reproduzir arquivos de áudio MP3, explorando execução síncrona e assíncrona.
 

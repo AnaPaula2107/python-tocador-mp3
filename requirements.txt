@@ -1,0 +1,13 @@
+playsound3
+# Oferece uma maneira simples e multiplataforma de reproduzir arquivos de som com uma única chamada de função. 
+
+
+# Direitos 
+
+Music by: Bensound.com/royalty-free-music
+License code: 6KTI8DPEIIMVIOCP
+Artist: : Marcus P.
+
+Music: https://www.bensound.com
+License code: QWEZOPRUJ78UXQCN
+Artist: : Marcus P.

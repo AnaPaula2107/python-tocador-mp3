@@ -1,6 +1,6 @@
 # 🎵 Tocador e Playlist de MP3 em Python
 
-Projeto desenvolvido em Python com o objetivo de reproduzir arquivos de áudio MP3, explorando execução síncrona e assíncrona.
+Projeto desenvolvido em Python durante o curso do SENAC SP – Lapa Tito, com o objetivo de reproduzir arquivos de áudio MP3, explorando execução síncrona e assíncrona.
 
 ---
 
